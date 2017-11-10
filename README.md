@@ -20,6 +20,6 @@ from diagram above Store Entity have 2 properties (promotionDineIn and promotion
 
 * Junction Table
 
-![alt text](pics/junction%20table.png)
+![alt text](pics/junction%20table.png =200x100)
 
 ManyToMany relationship have junction table colored like above
