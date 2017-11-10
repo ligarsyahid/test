@@ -1,3 +1,25 @@
-# Test
+# Zest ERD
 
-![alt text](https://www.google.org/assets/static/images/logo_googledotorg-171e7482e5523603fc0eed236dd772d8.svg)
+
+## Example
+
+Store ERD
+
+![alt text](pics/store.jpg)
+
+
+
+Description :
+
+* Properties
+
+![alt text](pics/properties.png)
+
+from diagram above Store Entity have 2 properties (promotionDineIn and promotionsTakeAway) to Promotion entity
+
+
+* Junction Table
+
+![alt text](pics/junction%20table.png)
+
+ManyToMany relationship have junction table colored like above
